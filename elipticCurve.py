@@ -119,7 +119,7 @@ c = ElipticCurve(p=p, A=A, B=B)
 Punkt = [x, y]
 Punkt2 = c.opositePoint(Punkt)
 # Zadanie 4
-# O = [float('inf'),  float('inf')]
+# O = [float('inf'),   float('inf')]
 p = 68719476731
 A = 2645887931
 B = 63508942644
